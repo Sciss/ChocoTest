@@ -15,8 +15,9 @@ Other Scala/CP projects I'm aware of (in random order):
 
  - [Copris](http://bach.istc.kobe-u.ac.jp/copris/)
  - [JaCoP](http://jacop.osolpro.com/) -- page links to the Scala front-end
- - [scalasmt](http://code.google.com/p/scalasmt/)
+ - [ScalaSMT](http://code.google.com/p/scalasmt/)
  - [scream](https://github.com/nathanial/scream)
- - [sconsolver](https://github.com/kjellwinblad/sconsolver)
- - [scampi](https://bitbucket.org/pschaus/scampi/wiki/Home)
-
+ - [SConSolver](https://github.com/kjellwinblad/sconsolver)
+ - [Scampi](https://bitbucket.org/pschaus/scampi/wiki/Home)
+ - [Asteroid](http://sourceforge.net/p/asteroid/wiki/Home/)
+ - [Kaplan](http://lara.epfl.ch/w/kaplan) -- not a library but a language extension
